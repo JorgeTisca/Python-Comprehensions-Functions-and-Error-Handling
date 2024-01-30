@@ -29,3 +29,5 @@ for i in range(1, 11):
 print("just print pair numbers of 1 to 10--->", numbers)
 
 print("-" * 20, "Example List comprehension with conditional", "-" * 20)
+even_numbers_v2 = [number for number in numbers if number % 2 == 0]
+print(even_numbers_v2)
