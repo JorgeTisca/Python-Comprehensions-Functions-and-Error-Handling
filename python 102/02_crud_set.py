@@ -47,4 +47,4 @@ print("-" * 20)
 
 # clear
 set_countries.clear()
-print("Using clelar--", set_countries)
+print("Using clear--", set_countries)
