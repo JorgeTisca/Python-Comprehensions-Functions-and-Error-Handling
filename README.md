@@ -2,6 +2,11 @@
 
 **The results of the practices are demonstrated here.**
 
+UPDATE GAME ROCK, PAPER, SCISSORS
+  
+  ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/b87dc4da-2627-4189-8f4b-b6a92b851671)
+
+
 CALCULATOR PRACTICE
 
   ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/e9ac275d-a8e6-4d4f-b8f1-e81c3007375d)
@@ -40,4 +45,10 @@ PRACTICES WITH FUNCTIONS
 
   
    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/10063e43-5320-4dad-b37d-0a9eb3df664e)
+
+
+ 2.Multiple returns values
+
+   ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/dfce4ccf-5b25-4412-a307-8144ddbe5ca6)
+
 
