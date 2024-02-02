@@ -52,3 +52,17 @@ PRACTICES WITH FUNCTIONS
    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/dfce4ccf-5b25-4412-a307-8144ddbe5ca6)
 
 
+3.Higher order function "HOF and lambda
+
+![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/3b5174f8-752b-4117-92b9-243b9aa8a3f8)
+
+
+![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/12d573ad-042c-492e-84dc-0faca61ce649)
+
+
+4.Use Map with lampbda
+
+
+![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/776e80f4-9775-4c19-885c-1f54562bd605)
+
+
