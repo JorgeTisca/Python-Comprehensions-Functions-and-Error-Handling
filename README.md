@@ -66,3 +66,9 @@ PRACTICES WITH FUNCTIONS
 ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/776e80f4-9775-4c19-885c-1f54562bd605)
 
 
+5.MAP with dictionary and lambda
+
+
+![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/1d971b7f-93a2-41f7-9e7c-75ee04e47542)
+
+
