@@ -4,12 +4,12 @@
 
 UPDATE GAME ROCK, PAPER, SCISSORS
   
-  ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/b87dc4da-2627-4189-8f4b-b6a92b851671)
+   ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/b87dc4da-2627-4189-8f4b-b6a92b851671)
 
 
 CALCULATOR PRACTICE
 
-  ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/e9ac275d-a8e6-4d4f-b8f1-e81c3007375d)
+   ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/e9ac275d-a8e6-4d4f-b8f1-e81c3007375d)
 
 
 PRACTICES WITH SETS
@@ -41,34 +41,52 @@ PRACTICES WITH LISTS, DICTINONARYS COMPREHENSIONS
 
 PRACTICES WITH FUNCTIONS
 
- 1.Create Function sum and return
+ 1. Create Function sum and return
 
   
-   ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/10063e43-5320-4dad-b37d-0a9eb3df664e)
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/10063e43-5320-4dad-b37d-0a9eb3df664e)
 
 
- 2.Multiple returns values
+ 2. Multiple returns values
 
-   ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/dfce4ccf-5b25-4412-a307-8144ddbe5ca6)
-
-
-3.Higher order function "HOF and lambda
-
-![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/3b5174f8-752b-4117-92b9-243b9aa8a3f8)
+     ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/dfce4ccf-5b25-4412-a307-8144ddbe5ca6)
 
 
-![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/12d573ad-042c-492e-84dc-0faca61ce649)
+3. Higher order function "HOF and lambda
+
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/3b5174f8-752b-4117-92b9-243b9aa8a3f8)
 
 
-4.Use Map with lampbda
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/12d573ad-042c-492e-84dc-0faca61ce649)
 
 
-![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/776e80f4-9775-4c19-885c-1f54562bd605)
+4. Use Map with lampbda
 
 
-5.MAP with dictionary and lambda
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/776e80f4-9775-4c19-885c-1f54562bd605)
 
 
-![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/1d971b7f-93a2-41f7-9e7c-75ee04e47542)
+5. MAP with dictionary and lambda
 
 
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/1d971b7f-93a2-41f7-9e7c-75ee04e47542)
+
+
+6. Filters
+
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/3d787bda-6ed5-45d3-bd41-eaf89409a086)
+
+    
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/77fe3a74-edd8-4f9b-aba8-a5b51d3c1040)
+
+7. Reduce
+
+
+     ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/fa9cc86c-5bf7-462f-b3c1-82720477dd84)
+
+   
+
+
+
+
+   
