@@ -99,4 +99,25 @@ MODULES
     ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/f3fa15a1-a0d2-4683-b995-eae390cec8bf)
 
 
+FILE MANIPULATION AND ERRORS
+
+1. Iterables
+
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/69ada060-019e-45fe-b66e-89755d5ae721)
+
+2. Error raise
+
+
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/b07463e4-d2ad-4c45-bf0c-38125483e7de)
+
    
+3. try and except
+
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/115761ca-4aa8-4dc3-b864-fedfbb719136)
+
+
+4. Read file
+
+
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/2a596726-1bce-4845-a7d7-89af12357f62)
+
