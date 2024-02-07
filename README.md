@@ -84,9 +84,19 @@ PRACTICES WITH FUNCTIONS
 
      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/fa9cc86c-5bf7-462f-b3c1-82720477dd84)
 
-   
+
+MODULES
+
+1. Practice with modules
 
 
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/0d55f25f-3f00-4feb-a14a-d70b51db7c0a)
+
+
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/f12ec4de-d158-4746-8e81-b5caae502cb7)
+
+
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/f3fa15a1-a0d2-4683-b995-eae390cec8bf)
 
 
    
