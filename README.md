@@ -121,3 +121,8 @@ FILE MANIPULATION AND ERRORS
 
       ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/2a596726-1bce-4845-a7d7-89af12357f62)
 
+5. Weite file
+
+
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/95abaccb-5db8-44cc-aaae-2d75c1c7ed50)
+
