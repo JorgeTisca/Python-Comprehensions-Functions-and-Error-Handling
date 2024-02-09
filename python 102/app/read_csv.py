@@ -8,15 +8,15 @@ def read_csv(path):
         data = []
         for row in reader:
             iterable = zip(header, row)
-            print("***" * 5)
+            # print("***" * 5)
             # print(list(iterable))
             country_dict = dict(iterable)  # transform iterable
-            # country_dic = {key: value for key, value in iterable}
+            # country_dict = {key: value for key, value in iterable}
             # print(country_dict)
             data.append(country_dict)
-            return data
+        return data
 
 
 if __name__ == "__main__":
     data = read_csv("./app/data.csv")
-    print(data)
+    print(data[2])
