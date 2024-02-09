@@ -2,6 +2,15 @@
 
 **The results of the practices are demonstrated here.**
 
+REPOSITORY PROJECT: READ FILE AND GENERATE GRAPH BY COUNTRY FILTER
+
+
+![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/93791c6e-4485-40b8-97c5-972b00cc6c66)
+
+
+
+SOME PRACTICES
+
 UPDATE GAME ROCK, PAPER, SCISSORS
   
    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/b87dc4da-2627-4189-8f4b-b6a92b851671)
@@ -121,8 +130,24 @@ FILE MANIPULATION AND ERRORS
 
       ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/2a596726-1bce-4845-a7d7-89af12357f62)
 
-5. Weite file
+5. Write file
 
 
       ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/95abaccb-5db8-44cc-aaae-2d75c1c7ed50)
+
+
+6. Read CSV
+
+
+      ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/16a5c1a6-2c90-4ba3-822f-1bf18eedd7e0)
+
+
+GRAPHS IN PYTHON
+
+1. Show graph
+
+
+    ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/5d6537bf-8182-4e72-b674-4c3da006a38e)
+
+     ![image](https://github.com/JorgeTisca/Python-Comprehensions-Functions-and-Error-Handling/assets/54377291/9d5d67e0-7b43-4331-9d33-0b2e3e904c6e)
 
